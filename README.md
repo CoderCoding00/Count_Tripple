@@ -10,3 +10,4 @@ Set result to the number of triples in the given string. The triples may overlap
 
 # Screen Shot of the Test Output 
 
+<img width="647" alt="Count_Tripple" src="https://user-images.githubusercontent.com/107374333/213943087-01f2a8f6-bbae-4597-ab52-10956e1a26b2.png">
